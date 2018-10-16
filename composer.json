@@ -1,0 +1,7 @@
+{
+    "name": "arun/test-models",
+    "description": "Testing Models In My Git",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
